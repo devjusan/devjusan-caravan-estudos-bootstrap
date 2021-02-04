@@ -1,6 +1,6 @@
 # caravan
 Site feito quase que exclusivamente pelo framework Bootstrap.
-https://caravan-dev.netlify.app/
+<a href="https://caravan-dev.netlify.app/" target="_blank">Site na íntegra</a>
 
 
 ## Ferramentas utilizadas:
